@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import countriesData from "../countriesData";
+// import countriesData from "../countriesData";
 import CountryCard from "./CountryCard";
 import CountriesListShimmer from "./CountriesListShimmer";
 
